@@ -362,7 +362,7 @@ button {
     position: absolute;
     
     right: -40px;
-    content:url(img/decor.svg);
+    content:url(img/decor.webp);
 }
 @media(max-width:991.98px) {
     .console__body .block-b0dy__item {
@@ -435,7 +435,7 @@ button {
     padding-left: 25px;
 }
 .price-item__link::after {
-    content: url(img/ar.svg);
+    content: url(img/ar.webp);
     position: absolute;
     left: 0px;
 }
